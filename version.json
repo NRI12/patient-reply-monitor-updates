@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/NRI12/patient-reply-monitor-updates/main/releases/PatientReplyMonitor-1.0.1.zip",
+  "sha256": "fad27b70a1cfdc15b165f36519beb34160187e8092945046b8f2c43878de3f90",
+  "encoding": "raw",
+  "release_notes": "Auto-update system, manual 2FA fallback, local Excel report"
+}
