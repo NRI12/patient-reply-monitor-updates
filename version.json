@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/NRI12/patient-reply-monitor-updates/main/releases/PatientReplyMonitor-1.0.2.zip",
-  "sha256": "054a79053d0e34e27ff95a3352311b2f8d2194802683b9bffa67768afe300b0c",
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/NRI12/patient-reply-monitor-updates/main/releases/PatientReplyMonitor-1.0.3.zip",
+  "sha256": "84f1f698b2dfa403441c25d9503bd9934e51b847046d9e25debed9f6b96a9b0a",
   "encoding": "raw",
-  "release_notes": "Smoke test of the release/update pipeline"
+  "release_notes": "Fix Tebra login: handle new passwordless verification screen, clear stale session before retrying, type credentials like a human (fixes intermittent login failures)"
 }
